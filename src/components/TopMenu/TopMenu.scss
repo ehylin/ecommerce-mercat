@@ -1,0 +1,30 @@
+.menu{
+    background-color: #ffff;
+    border: 1px solid #a67c52;
+    &__cart{
+        text-decoration: none;
+        color: #456546;
+        margin-top: 7px;
+        &:hover{
+            color: #456546;
+        }
+    }
+    &__ico{
+        color: #000;
+        font-size: 23px;
+        text-align: right;
+        margin-top: 4px;
+    }
+    &__button{
+        background-color: #000;
+        color: #ffffff;
+        text-decoration: none;
+        padding: 5px;
+        cursor: pointer;
+        &:hover{
+            background-color: #ffffff;
+            color: #000;
+            border: 1px solid #000;
+        }
+    }
+}

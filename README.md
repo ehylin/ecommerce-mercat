@@ -1,3 +1,12 @@
+# React Redux Router: Proyecto desde cero para Mercat
+
+Es un proyecto creado desde cero con create react app, donde se añadieron las dependencias a utilizar, para hacer rutas en la pagina,
+para el comportamiento con estados se utilizo redux y para consumir Api se utilizo axios.
+
+Para ejecutar el proyecto se deben instalar todas las dependencias
+Se utilizo Yarn
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
